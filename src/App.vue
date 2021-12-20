@@ -1,15 +1,15 @@
 <template>
   <div id="app">
-    <WebsiteBootstrap />
+    <Training />
   </div>
 </template>
 
 <script>
-import WebsiteBootstrap from "./components/WebsiteBootstrap.vue";
+import Training from "./components/Training.vue";
 
 export default {
   components: {
-    WebsiteBootstrap,
+    Training,
   },
 };
 </script>
